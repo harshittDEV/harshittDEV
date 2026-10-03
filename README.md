@@ -59,18 +59,13 @@ I enjoy turning ideas into practical products, solving problems with DSA, and co
 ### 🧠 Programming & DSA
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,cpp,c" />
+  <img src="https://skillicons.dev/icons?i=java" />
 </p>
 
 **Java • Data Structures & Algorithms • Problem Solving**
 
 ---
 
-### 🤖 AI / GenAI
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
 
 Currently exploring:
 
