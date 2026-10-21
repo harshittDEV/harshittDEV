@@ -98,15 +98,14 @@ The idea is no longer active, but working on it helped me think about product de
   />
 </p>
 
-### 🧊 My GitHub in 3D
-
 <p align="center">
   <img
-    src="profile-3d-contrib/profile-night-rainbow.svg"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=harshittDEV&theme=github-compact&hide_border=true"
     width="100%"
-    alt="3D GitHub contribution graph"
+    alt="Live GitHub contribution activity graph"
   />
 </p>
+
 
 ---
 
