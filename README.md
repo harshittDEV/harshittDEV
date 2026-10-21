@@ -50,7 +50,7 @@ I like understanding how things work behind the scenes, not just making the UI l
   <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" alt="Backend technologies"/>
 </p>
 
-`Java` · `Spring Boot` · `Node.js` · `Express.js` · `REST APIs` · `JSON`
+`Java` · `Spring Boot` · `Node.js` · `REST APIs` · `JSON`
 
 ### 🗄️ Databases
 
@@ -82,30 +82,6 @@ I like understanding how things work behind the scenes, not just making the UI l
 Versoid started as an early-stage product idea to unify coding platforms, let developers form clans and compete in weekly coding wars, and create direct connections with recruiters.
 
 The idea is no longer active, but working on it helped me think about product design, developer communities, and building around real user needs.
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=harshittDEV&show_icons=true&hide_border=true&rank_icon=github&theme=transparent"
-    height="165"
-    alt="GitHub statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshittDEV&layout=compact&hide_border=true&theme=transparent"
-    height="165"
-    alt="Most used languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=harshittDEV&theme=github-compact&hide_border=true"
-    width="100%"
-    alt="Live GitHub contribution activity graph"
-  />
-</p>
-
 
 ---
 
